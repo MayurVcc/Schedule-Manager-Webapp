@@ -1,14 +1,30 @@
-# Schedule-Manager-Webapp
-A full-stack productivity tool designed to help users organize tasks and manage their daily schedules through a clean, intuitive interface. This project focuses on efficient state management and responsive UI design.
+# Full-Stack Schedule Management App
 
-Key Features:<br>
-Dynamic Task Logic: Full CRUD (Create, Read, Update, Delete) functionality for managing daily tasks.<br>
-State Persistence: Implemented local storage logic to ensure data remains persistent across browser sessions.<br>
-Responsive Design: A mobile-first CSS architecture that adapts to any screen size.<br>
+Overview
+A modern, responsive scheduling application built to manage daily tasks with high efficiency. This project demonstrates my ability to work with component-based architecture and modern CSS frameworks.
 
-Tech Stack:<br>
-Frontend: HTML5, CSS3<br>
-Logic: JavaScript (ES6+)<br>
+Technical Stack
 
-How to Run:<br>
-Simply clone the repository and open index.html in any modern web browser.
+Framework: React.js (via Vite)
+
+Styling: Tailwind CSS (Utility-first styling)
+
+State Management: React Hooks
+
+Deployment: Ready for Vercel/GitHub Pages
+
+Key Features
+
+Dynamic Task Logic: Real-time adding and deleting of tasks using React state.
+
+Responsive UI: Fully optimized for mobile and desktop using Tailwind's responsive breakpoints.
+
+Modular Code: Organized into reusable components within the src directory.
+
+How to Run
+
+Clone the repo.
+
+Run npm install to install dependencies.
+
+Run npm run dev to start the local development server.
