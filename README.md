@@ -7,7 +7,6 @@ State Persistence: Implemented local storage logic to ensure data remains persis
 Responsive Design: A mobile-first CSS architecture that adapts to any screen size.<br>
 
 Tech Stack:<br>
-
 Frontend: HTML5, CSS3<br>
 Logic: JavaScript (ES6+)<br>
 
